@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.hs7xAaVx.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"2-representacio.md","filePath":"2-representacio.md"}'),a={name:"2-representacio.md"};function o(s,c,n,p,i,_){return r(),t("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};

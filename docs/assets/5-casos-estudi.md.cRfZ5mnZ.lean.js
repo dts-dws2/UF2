@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.hs7xAaVx.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"5-casos-estudi.md","filePath":"5-casos-estudi.md"}'),a={name:"5-casos-estudi.md"};function o(c,r,n,d,i,_){return s(),t("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};

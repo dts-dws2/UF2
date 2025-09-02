@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./chunks/framework.hs7xAaVx.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"3-instruccions.md","filePath":"3-instruccions.md"}'),c={name:"3-instruccions.md"};function n(r,o,a,i,_,p){return s(),e("div")}const f=t(c,[["render",n]]);export{m as __pageData,f as default};
