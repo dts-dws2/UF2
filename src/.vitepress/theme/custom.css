@@ -151,9 +151,6 @@
 
 .mermaid {
   display: block;      /* assegurar que sigui un element de bloc */
-}
-
-.flowchart {
   margin: 0 auto;  /* 1.5em d'espai vertical, calcem horitzontal automàtic */
 }
 

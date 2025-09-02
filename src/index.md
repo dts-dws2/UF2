@@ -1,4 +1,4 @@
-# UF01. Fonaments de Programació
+# UF02. Representació d'algoritmes
 
 ::: tip Informació del curs
 **Professors:** Guillermo Garrido Portes / David Tur Sanmateu
@@ -11,8 +11,9 @@
 
 :::
 
-::: info Síntesi de la unitat
-Aquesta unitat està dissenyada per introduir-vos als fonaments essencials de la programació. Aprendreu els conceptes bàsics, les metodologies i les eines necessàries per començar la vostra trajectòria en el món del desenvolupament de programari.
+
+::: info Benvinguts al Curs
+Aquest curs està dissenyat per introduir-vos als fonaments essencials de la programació. Aprendreu els conceptes bàsics, les metodologies i les eines necessàries per començar la vostra trajectòria en el món del desenvolupament de programari.
 :::
 
 ## Continguts del Curs {.animate-title}
@@ -36,32 +37,14 @@ Aquest curs segueix una metodologia d'aprenentatge actiu, combinant teoria i pr�
 - 📈 **Avaluació contínua** del progrés
 :::
 
-## Recursos addicionals {.animate-title}
+## Recursos Addicionals {.animate-title}
 
-::: details 📚 Materials complementaris
+::: info Materials Complementaris
 
-- [**API Java**](https://docs.oracle.com/javase/8/docs/api/)  
-- [**Manual oficial de Java (Oracle)**](https://docs.oracle.com/javase/tutorial/)  
-
-:::
-
-::: details 💻 Eines i programari necessari
-
-- [**NetBeans IDE**](https://netbeans.apache.org/front/main/download/index.html)  
-Entorn de desenvolupament integrat recomanat per programar en Java, amb suport per a projectes modulars i interfícies gràfiques.
-- [**Java Development Kit (JDK)**](https://www.oracle.com/java/technologies/downloads/)  
-Kit de desenvolupament Java necessari per compilar i executar programes. Es recomana la versió més actual (o, en tot cas, 11 o superior).
-
-:::
-
-::: details 🔗 Enllaços d'interès
-
-- [**Compilador Java Online**](https://pythontutor.com/java.html#mode=edit)  
-Compilador i debugger visual pas a pas, amb suport per a Java, Python, C i C++;
-- [**pildorasinformaticas (YouTube)**](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)  
-Canal molt conegut en espanyol amb tutorials clars sobre Java i programació orientada a objectes.
-- [**w3schools Java Tutorial**](https://www.w3schools.com/java/)  
-Guia interactiva i senzilla per començar amb Java des del navegador.
+- 📚 Bibliografia recomanada
+- 🔗 Enllaços d'interès
+- 💻 Eines i programari necessari
+- 📝 Exercicis pràctics
 
 :::
 
