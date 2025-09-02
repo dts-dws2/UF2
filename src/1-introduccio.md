@@ -1,4 +1,4 @@
-# 1. Introducció
+# 1. Introducció_
 
 El propòsit principal de la creació de programes és resoldre i automatitzar problemes del dia a dia. Açò implica que es procese informació per a obtindre resultats a partir de dades de l'entorn que necessita el programa.
 
