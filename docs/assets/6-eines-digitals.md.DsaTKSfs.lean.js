@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.hs7xAaVx.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"6-eines-digitals.md","filePath":"6-eines-digitals.md"}'),s={name:"6-eines-digitals.md"};function i(n,r,o,c,d,_){return a(),t("div")}const m=e(s,[["render",i]]);export{p as __pageData,m as default};

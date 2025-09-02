@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.hs7xAaVx.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"4-estructures.md","filePath":"4-estructures.md"}'),s={name:"4-estructures.md"};function a(c,o,n,u,_,p){return r(),t("div")}const m=e(s,[["render",a]]);export{i as __pageData,m as default};

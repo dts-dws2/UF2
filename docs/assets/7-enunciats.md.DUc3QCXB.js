@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.hs7xAaVx.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"7-enunciats.md","filePath":"7-enunciats.md"}'),n={name:"7-enunciats.md"};function s(c,r,o,i,_,p){return a(),t("div")}const f=e(n,[["render",s]]);export{m as __pageData,f as default};
