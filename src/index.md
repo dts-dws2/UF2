@@ -1,158 +1,67 @@
-# Plantilla d'exemple VitePress
+# UF01. Fonaments de Programació
 
-Benvingut! Aquesta pàgina és una plantilla de demostració que mostra la varietat d'elements que pots utilitzar en la teua documentació amb VitePress.
+::: tip Informació del curs
+**Professors:** Guillermo Garrido Portes / David Tur Sanmateu
 
----
+**Curs Acadèmic:** 2024-2025
 
-## Títols i seccions
-
-# Títol nivell 1
-
-## Títol nivell 2
-
-### Títol nivell 3
-
----
-
-## Llistes
-
-- Element de llista
-- Un altre element
-  - Sub-element
-
-1. Element numerat
-2. Segon element
-
----
-
-## Taula
-
-| Nom          | Tipus        | Valor        |
-|--------------|--------------|-------------|
-| edat         | numèric      | 30          |
-| IVA          | numèric      | 0.21        |
-| DOMINI_GMAIL | alfanumèric  | "gmail.com" |
-
----
-
-## Bloc de codi
-
-```plaintext
-- Nom de la dada: edat
-- Tipus de dada: numèric
-- Valor de la dada: 30
-```
-
-```md
-<script setup>
-import { useData } from 'vitepress'
-const { theme, page, frontmatter } = useData()
-</script>
-```
-
----
-
-## Imatge
+**Centre:** CEEDCV - Centre Específic d'Educació a Distància de la Comunitat Valenciana
 
 ![Logo CC](/img/logo-cc.png){logo}
 
----
-
-## Bloc de cita
-
-> Exemple de cita: "Els programes són com receptes detallades que li diuen a l'ordinador exactament què fer."
-
----
-
-## Bloc d'informació
-
-::: info
-Aquesta és una caixa d'informació.
 :::
 
-::: tip
-Aquesta és una caixa de consell.
+::: info Síntesi de la unitat
+Aquesta unitat està dissenyada per introduir-vos als fonaments essencials de la programació. Aprendreu els conceptes bàsics, les metodologies i les eines necessàries per començar la vostra trajectòria en el món del desenvolupament de programari.
 :::
 
-::: warning
-Aquesta és una caixa d'avís.
-:::
+## Continguts del Curs {.animate-title}
 
-::: danger
-Aquesta és una caixa de perill.
-:::
+::: details Accés Ràpid als Continguts
 
----
+- 📋 [**Objectius del Curs**](./objectius.md)  
+  Exploració dels objectius i competències a assolir
 
-## Detalls expandibles
-
-::: details Exemple de detalls
-Aquesta secció es pot expandir per mostrar més informació.
-:::
-
----
-
-## Tabs
-
-:::tabs
-@tab Algoritme A
-
-```plaintext
-INICI
-  1. Escriure "Introdueix valor per a n".
-  2. Llegir n.
-  3. Si n = 2 escriure "És parell"
-  4. Si no, si n = 1 escriure "És imparell"
-  5. Si no, n = n - 2 i tornem al pas 3.
-FI
-```
-
-@tab Algoritme B
-
-```plaintext
-INICI
-  1. Escriure "Introdueix valor per a n".
-  2. Llegir n.
-  3. M ← n % 2
-  4. Si M = 0, escriure "És parell"
-  5. Si no, escriure "És imparell"
-FI
-```
 
 :::
 
----
+## Metodologia {.animate-title}
 
-## Objectius (llista de fites)
+::: tip Aprenentatge Actiu
+Aquest curs segueix una metodologia d'aprenentatge actiu, combinant teoria i pràctica:
 
-- Comprendre el que és un algoritme.
-- Identificar i crear algoritmes en la vida real.
-- Conèixer el cicle de vida d’un programa.
-- Comprendre com es representen els algoritmes.
-- Conèixer els elements bàsics d’un algoritme i el seu significat.
-- Saber avaluar expressions i operadors.
+- 🎯 **Objectius clars** per a cada unitat
+- 💡 **Exemples pràctics** i casos d'ús reals
+- 🔄 **Exercicis interactius** per reforçar l'aprenentatge
+- 📈 **Avaluació contínua** del progrés
+:::
 
----
+## Recursos addicionals {.animate-title}
 
-## Exercicis (llista d'exemples)
+::: details 📚 Materials complementaris
 
-- Preparar un batut de fruites
-- Fer la compra al supermercat
-- Fer una pizza casolana
-- Llençar la brossa
-- Preparar un esmorzar
-- Instal·lar una aplicació al telèfon
-- Rentar la roba
-- Coure arròs
-- Llegir un llibre
-- Fer una trucada telefònica
+- [**API Java**](https://docs.oracle.com/javase/8/docs/api/)  
+- [**Manual oficial de Java (Oracle)**](https://docs.oracle.com/javase/tutorial/)  
 
----
+:::
 
-## Enllaç a la documentació de l'API
+::: details 💻 Eines i programari necessari
 
-Consulta la [documentació de l'API de VitePress](https://vitepress.dev/reference/runtime-api#usedata).
+- [**NetBeans IDE**](https://netbeans.apache.org/front/main/download/index.html)  
+Entorn de desenvolupament integrat recomanat per programar en Java, amb suport per a projectes modulars i interfícies gràfiques.
+- [**Java Development Kit (JDK)**](https://www.oracle.com/java/technologies/downloads/)  
+Kit de desenvolupament Java necessari per compilar i executar programes. Es recomana la versió més actual (o, en tot cas, 11 o superior).
 
----
+:::
 
-Aquesta plantilla mostra la majoria d'elements que pots utilitzar en la teua documentació. Pots eliminar o modificar lliurement aquest contingut.
+::: details 🔗 Enllaços d'interès
+
+- [**Compilador Java Online**](https://pythontutor.com/java.html#mode=edit)  
+Compilador i debugger visual pas a pas, amb suport per a Java, Python, C i C++;
+- [**pildorasinformaticas (YouTube)**](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)  
+Canal molt conegut en espanyol amb tutorials clars sobre Java i programació orientada a objectes.
+- [**w3schools Java Tutorial**](https://www.w3schools.com/java/)  
+Guia interactiva i senzilla per començar amb Java des del navegador.
+
+:::
+
